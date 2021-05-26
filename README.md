@@ -9,7 +9,6 @@
 * I am working on building my online presence.
 * Passionate for learning & exploring new Tech.
 * I’m currently working on my portfolio.
-* I am currently learning Docker.
 *  Ask me about anything, I'll be happy to help.
 
 
